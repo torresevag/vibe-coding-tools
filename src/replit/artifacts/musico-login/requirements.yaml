@@ -1,0 +1,13 @@
+packages:
+  "framer-motion": "For fluid, premium entry and interaction animations in the landing page"
+  "react-hook-form": "For robust form state management"
+  "@hookform/resolvers": "For Zod schema validation integration"
+
+images:
+  - path: "artifacts/musico-login/public/images/hero-audio.png"
+    description: "Abstract 3D rendering of glowing audio waveforms and levitating geometric particles in deep electric violet, midnight blue, and ambient gold lighting. Cinematic depth of field, premium dark moody aesthetic, suitable for a professional music industry background."
+    aspect_ratio: "16:9"
+
+notes:
+  - Form uses visual/mock authentication state with simulated network delay since there is no real backend API provided for login yet.
+  - App is forced into a dark/moody aesthetic specifically tailored for a music brand.

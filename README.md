@@ -176,5 +176,5 @@ Algunos códigos no pudieron ser importados a mis archivos
 
 Varias herramientas no renderizaban correctamente
 
-La depuración de errores se realizó con el agente del editor ZED, utilizando Claude Haiku 4.5
+La depuración de errores se realizó con el agente del editor VSCode, utilizando Claude Haiku 4.5
 

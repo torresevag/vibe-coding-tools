@@ -4,7 +4,7 @@ Este documento evalúa diferentes herramientas de programación asistida por IA 
 
 
 
-## 📊 Tabla Comparativa
+<h2>📊 Tabla Comparativa</h2>
 
 <table>
   <thead>
@@ -147,12 +147,12 @@ Este documento evalúa diferentes herramientas de programación asistida por IA 
 
 
 
-🔍 Observaciones
+<h2>🔍 Observaciones</h2>
 
-📝 Sobre los Frameworks y Librerías
+<h3>📝 Sobre los Frameworks y Librerías</h3>
 La mayoría de los LLMs eligen usar React.ts y algunos optan por Tailwind CSS para el desarrollo.
 
-🌐 Entornos de Desarrollo
+<h3>🌐 Entornos de Desarrollo</h3>
 Casi todas las herramientas probadas funcionan en navegador
 
 Excepción notable: KIRO (instalado en la terminal del editor)
@@ -160,7 +160,7 @@ Excepción notable: KIRO (instalado en la terminal del editor)
 Curiosidad: KIRO eligió utilizar HTML / CSS / JavaScript puro, sin frameworks ni librerías.
 
 
-✅ Herramientas que Mejor Funcionaron
+<h2>✅ Herramientas que Mejor Funcionaron</h2>
 De todas las probadas, 4 herramientas destacaron por su rendimiento y utilidad:
 
 ·Gemini
@@ -171,7 +171,7 @@ De todas las probadas, 4 herramientas destacaron por su rendimiento y utilidad:
 
 ·KIRO
 
-⚠️ Limitaciones 
+<h2>⚠️ Limitaciones </h2>
 Algunos códigos no pudieron ser importados a mis archivos
 
 Varias herramientas no renderizaban correctamente
